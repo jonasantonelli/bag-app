@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header component it renders correctly 1`] = `
+
+<header class="header">
+  <h1>
+    My Bag
+  </h1>
+  <div id="render-total-price">
+    <div class="price">
+      Total: € 2,244.05
+    </div>
+  </div>
+</header>
+
+`;
